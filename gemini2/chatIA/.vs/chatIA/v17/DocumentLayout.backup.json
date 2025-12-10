@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|c:\\users\\administrador\\desktop\\desafioasenjo\\chatia\\chatia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|solutionrelative:chatia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|solutionrelative:chatia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C882C318-15C0-4DC8-AEA1-A4483919C11E}|chatIA\\chatIA.csproj|solutionrelative:chatia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "chatIA\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.Designer.cs",
+              "RelativeToolTip": "chatIA\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:55:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.cs",
+              "RelativeDocumentMoniker": "chatIA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.cs",
+              "RelativeToolTip": "chatIA\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:55:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.cs",
+              "RelativeDocumentMoniker": "chatIA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\desafioAsenjo\\chatIA\\chatIA\\Form1.cs [Design]",
+              "RelativeToolTip": "chatIA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:53:29.002Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
